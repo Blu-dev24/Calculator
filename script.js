@@ -6,7 +6,7 @@ let currentInput = '';
 let previousInput = '';
 let operator = '';
 let result = '';
-
+console.log("hello");
 // Adding event listeners to buttons
 buttons.forEach(button => {
     button.addEventListener('click', () => {
